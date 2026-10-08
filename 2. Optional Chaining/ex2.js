@@ -2,4 +2,4 @@ const usuario = {
   nome: "Ana"
 };
 
-console.log(usuario.endereco?.cidade);
+console.log(usuario.endereco?.rua);
